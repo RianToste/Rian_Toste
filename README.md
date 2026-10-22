@@ -3,7 +3,7 @@
 ### 👤 About Me
 
 - 🌍 Location: **Lisbon** 
-- 🔥 Age: 16y
+- 🔥 Age: 17y
 - 📫 How to reach me: [Email](riantoste05@gmail.com)
 - 🐍 I am a Backend Dev in Python 
 
